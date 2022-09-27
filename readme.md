@@ -19,23 +19,18 @@ first thing to contribute to a project in  GitHub is to fork a project.
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/86893073/192566602-75516554-55e4-4a5d-9e1b-5722ed88b336.png)
 
-## Clone the project
+## Clone forked  project from your profile
 
 <div style="display:felx; gap:50px">
-<img  src="https://user-images.githubusercontent.com/86893073/192566687-c92edafb-1b02-43d5-a08a-090df73bd85f.png" width="900em" /> 
+<img  src="https://user-images.githubusercontent.com/86893073/192566687-c92edafb-1b02-43d5-a08a-090df73bd85f.png" width="700em" /> 
 </div>
-in your laptop 
-
----
-
  
 
-<aside>
 💡 git clone https://github.com/elhajuojy/Contributing-to-projects-YC
 
 </aside>
 
-## Creat new branch :
+## Create new branch :
 
 ```
 $ git branch modification 
