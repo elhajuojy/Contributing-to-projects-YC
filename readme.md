@@ -1,4 +1,4 @@
-# Contributing to projects
+# 👨‍⚖️👨‍⚖ Contributing to project
 
 **Learn how to contribute to a project :**
 
@@ -17,14 +17,13 @@ we have seen in our project the main points down below :
 
 first thing to contribute to a project in  GitHub is to fork a project.
 
-![Screenshot (1).png](Contributing%20to%20projects%20af62719eca70493f944902073cb20d34/Screenshot_(1).png)
+![Screenshot (1)](https://user-images.githubusercontent.com/86893073/192566602-75516554-55e4-4a5d-9e1b-5722ed88b336.png)
 
 ## Clone the project
 
- 
-
-![Screenshot 2022-09-27 152905.png](Contributing%20to%20projects%20af62719eca70493f944902073cb20d34/Screenshot_2022-09-27_152905.png)
-
+<div style="display:felx; gap:50px">
+<img  src="https://user-images.githubusercontent.com/86893073/192566687-c92edafb-1b02-43d5-a08a-090df73bd85f.png" width="900em" /> 
+</div>
 in your laptop 
 
 ---
@@ -32,7 +31,7 @@ in your laptop
  
 
 <aside>
-💡 git clone [https://github.com/OuafidiOussama/web.git](https://github.com/OuafidiOussama/web.git)
+💡 git clone https://github.com/elhajuojy/Contributing-to-projects-YC
 
 </aside>
 
@@ -63,10 +62,11 @@ $ git push origin +name of the branch (ex: main, master)
 
 go to the project on github , you will see a comapare and pull request button click on it .
 
-![screan.png](Contributing%20to%20projects%20af62719eca70493f944902073cb20d34/screan.png)
+
+![screan](https://user-images.githubusercontent.com/86893073/192566906-76aa7b10-e5c0-405d-9ce7-c34ad297a147.png)
 
 ## Approve request :
 
 now go to pull request section and you will find all the pull requests that all the collaborators sent to you to review accept in case they were good for your needs.
 
-![approve_.png](Contributing%20to%20projects%20af62719eca70493f944902073cb20d34/approve_.png)
+![approve_](https://user-images.githubusercontent.com/86893073/192566995-c542f466-ff78-419e-b7e8-d09a82aa4c60.png)
